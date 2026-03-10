@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0048-rotate-image](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0048-rotate-image/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,4 +29,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0048-rotate-image/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1539-kth-missing-positive-number](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 <!---LeetCode Topics End-->
