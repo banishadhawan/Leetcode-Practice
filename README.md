@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0048-rotate-image/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
