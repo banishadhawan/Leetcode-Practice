@@ -20,12 +20,14 @@ class Solution {
             }
         }
 
+        if(firstrow)
+            for(int j=0;j<matrix[0].length;j++)
+                matrix[0][j]=0;
+
         if(firstcol)
             for(int i=0;i<matrix.length;i++)
                 matrix[i][0] = 0;
 
-        if(firstrow)
-            for(int j=0;j<matrix.length;j++)
-                matrix[0][j]=0;
+        
     }
 }
