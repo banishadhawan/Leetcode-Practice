@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0086-partition-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0086-partition-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0086-partition-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0086-partition-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
