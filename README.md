@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0198-house-robber](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0198-house-robber/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -69,4 +70,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0198-house-robber](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0198-house-robber/) | Medium |
 <!---LeetCode Topics End-->
