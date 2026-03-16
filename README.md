@@ -75,5 +75,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0198-house-robber](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0198-house-robber/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
