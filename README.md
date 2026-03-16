@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0198-house-robber](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0198-house-robber/) | Medium |
+| [0216-combination-sum-iii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0216-combination-sum-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0078-subsets/) | Medium |
+| [0216-combination-sum-iii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0216-combination-sum-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
