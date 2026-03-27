@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0039-combination-sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0040-combination-sum-ii/) | Medium |
+| [0047-permutations-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0078-subsets/) | Medium |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0047-permutations-ii/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0040-combination-sum-ii/) | Medium |
+| [0047-permutations-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0078-subsets/) | Medium |
 | [0216-combination-sum-iii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0216-combination-sum-iii/) | Medium |
 ## Bit Manipulation
