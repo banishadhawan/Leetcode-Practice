@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Math
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0076-minimum-window-substring](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0076-minimum-window-substring/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +116,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0076-minimum-window-substring](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0076-minimum-window-substring/) | Hard |
 <!---LeetCode Topics End-->
