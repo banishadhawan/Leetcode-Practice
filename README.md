@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0086-partition-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0086-partition-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0198-house-robber](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0198-house-robber/) | Medium |
 | [0216-combination-sum-iii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0216-combination-sum-iii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0047-permutations-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
