@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0076-minimum-window-substring/) | Hard |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0022-generate-parentheses/) | Medium |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
