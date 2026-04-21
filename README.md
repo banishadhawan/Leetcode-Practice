@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0060-permutation-sequence](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0060-permutation-sequence/) | Hard |
 | [0096-unique-binary-search-trees](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0796-rotate-string/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0044-wildcard-matching/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
