@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0060-permutation-sequence/) | Hard |
 | [0096-unique-binary-search-trees](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0091-decode-ways/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0796-rotate-string/) | Easy |
 ## Backtracking
