@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0091-decode-ways/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0796-rotate-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0796-rotate-string/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,4 +231,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
