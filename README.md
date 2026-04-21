@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0242-valid-anagram](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Math
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
+| [0242-valid-anagram](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Stack
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0091-decode-ways/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0796-rotate-string/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
