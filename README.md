@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Array
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0198-house-robber/) | Medium |
 | [0216-combination-sum-iii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0216-combination-sum-iii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0283-move-zeroes](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
