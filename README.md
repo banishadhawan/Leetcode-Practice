@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0205-isomorphic-strings](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0091-decode-ways/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0796-rotate-string/) | Easy |
 ## Backtracking
