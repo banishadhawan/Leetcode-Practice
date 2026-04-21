@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0010-regular-expression-matching/) | Hard |
+| [0014-longest-common-prefix](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0044-wildcard-matching](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0044-wildcard-matching/) | Hard |
@@ -224,4 +226,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
