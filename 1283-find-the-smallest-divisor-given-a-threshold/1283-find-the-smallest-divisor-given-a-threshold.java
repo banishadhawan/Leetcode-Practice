@@ -1,24 +1,30 @@
 class Solution {
-    private int sum(int[] nums, int mid){
-        int sum=0;
-        for(int num:nums){
-            sum += (num+mid-1)/mid;
-        }
-        return sum;
-    }
+   
     public int smallestDivisor(int[] nums, int threshold) {
-        int low=1, high=0;
+        int low=1, max=0;
         for(int num:nums){
-            high=Math.max(high,num);
+            if(num>max)
+                max=Math.max(max,num);
         }
+        int high=max;
 
         while(low<=high){
             int mid=low+(high-low)/2;
-
-            if(sum(nums, mid) <= threshold) high=mid-1;
+            if(sum(mid,nums)<=threshold){
+                high=mid-1;
+            }
             else low=mid+1;
         }
         return low;
+    }
+
+    int sum(int mid, int[] nums){
+        int sum=0;
+       for(int num:nums){
+        sum += (num+mid-1)/mid;
+       }
+       return sum;
+
     }
 
 }
