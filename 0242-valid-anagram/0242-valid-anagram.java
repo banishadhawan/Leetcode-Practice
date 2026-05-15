@@ -4,14 +4,14 @@ class Solution {
 
        int[] freq = new int[256];
 
-        for(int i=0;i<s.length();i++){
+       for(int i=0;i<s.length();i++){
             freq[s.charAt(i)-'a']++;
             freq[t.charAt(i)-'a']--;
-        }
+       }
 
-        for(int count:freq){
-            if(count!=0) return false;
-        }
+       for(int count:freq){
+        if(count!=0) return false;
+       }
         return true;
        
     }
