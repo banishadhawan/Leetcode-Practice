@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0038-count-and-say](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0038-count-and-say/) | Medium |
 | [0044-wildcard-matching](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0044-wildcard-matching/) | Hard |
 | [0076-minimum-window-substring](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0091-decode-ways/) | Medium |
