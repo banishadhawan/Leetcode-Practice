@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0164-maximum-gap](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0198-house-robber/) | Medium |
 | [0216-combination-sum-iii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0216-combination-sum-iii/) | Medium |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
+| [0164-maximum-gap](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0242-valid-anagram/) | Easy |
@@ -300,4 +302,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
