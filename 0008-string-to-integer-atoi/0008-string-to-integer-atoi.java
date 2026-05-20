@@ -1,26 +1,40 @@
 class Solution {
     public int myAtoi(String s) {
-       int n = s.length();
-       int i=0;
-       int sign=1, ans=0;
 
-       while(i<n && s.charAt(i)==' ') i++;
+        int i = 0;
+        int n = s.length();
+        int sign = 1;
+        long ans = 0;
 
-       if(i<n && (s.charAt(i)=='-' || s.charAt(i)=='+')){
-        sign = (s.charAt(i)=='-')? -1 : 1;
-        i++;
-       }
-
-       while(i<n && Character.isDigit(s.charAt(i))){
-        int digit = s.charAt(i)-'0';
-
-        if(ans > (Integer.MAX_VALUE-digit)/10){
-            return (sign==1) ? Integer.MAX_VALUE : Integer.MIN_VALUE;
+        // Skip leading spaces
+        while (i < n && s.charAt(i) == ' ') {
+            i++;
         }
 
-        ans= ans*10 + digit;
-        i++;
-       }
-        return ans*sign;
+        // Handle sign
+        if (i < n && (s.charAt(i) == '-' || s.charAt(i) == '+')) {
+
+            sign = (s.charAt(i) == '-') ? -1 : 1;
+            i++;
+        }
+
+        // Convert digits
+        while (i < n && s.charAt(i) >= '0' && s.charAt(i) <= '9') {
+
+            ans = ans * 10 + (s.charAt(i) - '0');
+
+            // Overflow check
+            if (sign * ans > Integer.MAX_VALUE) {
+                return Integer.MAX_VALUE;
+            }
+
+            if (sign * ans < Integer.MIN_VALUE) {
+                return Integer.MIN_VALUE;
+            }
+
+            i++;
+        }
+
+        return (int)(sign * ans);
     }
 }
