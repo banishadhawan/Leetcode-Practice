@@ -319,5 +319,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0584-find-customer-referee/) | Easy |
 | [1148-article-views-i](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1148-article-views-i/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
