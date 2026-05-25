@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0086-partition-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0086-partition-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0148-sort-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0086-partition-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0148-sort-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0179-largest-number/) | Medium |
@@ -252,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0148-sort-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Interactive
@@ -321,4 +325,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1148-article-views-i](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
