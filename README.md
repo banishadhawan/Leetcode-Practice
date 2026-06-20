@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0079-word-search/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/banishadhawan/Leetcode-Practice/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Binary Search
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0038-count-and-say/) | Medium |
 | [0044-wildcard-matching](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0044-wildcard-matching/) | Hard |
 | [0076-minimum-window-substring](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0091-decode-ways/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -230,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0079-word-search/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0216-combination-sum-iii/) | Medium |
@@ -318,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Bucket Sort
