@@ -1,35 +1,26 @@
 class Solution {
-
-    List<List<String>> ans = new ArrayList<>();
-
     public List<List<String>> solveNQueens(int n) {
+       List<List<String>> ans = new ArrayList<>();
 
         char[][] board = new char[n][n];
-
-        for (int i = 0; i < n; i++) {
-            Arrays.fill(board[i], '.');
+        for(char[] row:board){
+            Arrays.fill(row,'.');
         }
 
-        int[] leftRow = new int[n];
-        int[] lowerDiagonal = new int[2 * n - 1];
-        int[] upperDiagonal = new int[2 * n - 1];
+        boolean[] leftrow = new boolean[n];
+        boolean[] lowerdiag = new boolean[2*n-1];
+        boolean[] upperdiag = new boolean[2*n-1];
 
-        solve(0, board, leftRow, lowerDiagonal, upperDiagonal, n);
+        backtrack(0,board,leftrow,lowerdiag,upperdiag, ans,n);
 
         return ans;
     }
 
-    private void solve(int row, char[][] board,
-                       int[] leftRow,
-                       int[] lowerDiagonal,
-                       int[] upperDiagonal,
-                       int n) {
-
-        if (row == n) {
-
+    private void backtrack(int row, char[][] board, boolean[] leftrow, boolean[] lowerdiag, boolean[] upperdiag, List<List<String>> ans, int n){
+        if(row==n){
             List<String> temp = new ArrayList<>();
 
-            for (char[] r : board) {
+            for(char[] r:board){
                 temp.add(new String(r));
             }
 
@@ -37,30 +28,27 @@ class Solution {
             return;
         }
 
-        for (int col = 0; col < n; col++) {
+        for(int col=0;col<n;col++){
 
-            if (leftRow[col] == 0 &&
-                lowerDiagonal[row + col] == 0 &&
-                upperDiagonal[n - 1 + col - row] == 0) {
+            if(!leftrow[col] && !lowerdiag[row+col] && !upperdiag[n-1 + col-row]){
 
                 board[row][col] = 'Q';
 
-                leftRow[col] = 1;
-                lowerDiagonal[row + col] = 1;
-                upperDiagonal[n - 1 + col - row] = 1;
+                leftrow[col]=true;
+                lowerdiag[row+col]=true;
+                upperdiag[n-1+col-row]=true;
 
-                solve(row + 1, board,
-                      leftRow,
-                      lowerDiagonal,
-                      upperDiagonal,
-                      n);
+                backtrack(row+1,board,leftrow,lowerdiag,upperdiag,ans,n);
 
-                board[row][col] = '.';
+                board[row][col]='.';
 
-                leftRow[col] = 0;
-                lowerDiagonal[row + col] = 0;
-                upperDiagonal[n - 1 + col - row] = 0;
+                leftrow[col]=false;
+                lowerdiag[row+col]=false;
+                upperdiag[n-1+col-row]=false;
             }
         }
+
     }
 }
+
+   
