@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
