@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/banishadhawan/Leetcode-Practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
