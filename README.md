@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0079-word-search/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/banishadhawan/Leetcode-Practice/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -389,4 +392,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 <!---LeetCode Topics End-->
