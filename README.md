@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/banishadhawan/Leetcode-Practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/banishadhawan/Leetcode-Practice/tree/main/2643-row-with-maximum-ones/) | Easy |
+| [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/3251-find-the-count-of-monotonic-pairs-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1922-count-good-numbers/) | Medium |
+| [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/3251-find-the-count-of-monotonic-pairs-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0198-house-robber/) | Medium |
+| [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/3251-find-the-count-of-monotonic-pairs-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/3251-find-the-count-of-monotonic-pairs-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -412,4 +416,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/3251-find-the-count-of-monotonic-pairs-ii/) | Hard |
 <!---LeetCode Topics End-->
