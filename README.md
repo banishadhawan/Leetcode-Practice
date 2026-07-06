@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0525-contiguous-array/) | Medium |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0044-wildcard-matching/) | Hard |
 | [0179-largest-number](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0179-largest-number/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0605-can-place-flowers/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
