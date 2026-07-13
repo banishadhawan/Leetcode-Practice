@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
+| [0503-next-greater-element-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -443,4 +445,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0503-next-greater-element-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
