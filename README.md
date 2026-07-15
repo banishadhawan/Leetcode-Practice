@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0023-merge-k-sorted-lists](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0086-partition-list/) | Medium |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -423,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0148-sort-list/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -446,4 +449,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0503-next-greater-element-ii/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
