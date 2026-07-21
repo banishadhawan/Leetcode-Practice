@@ -19,7 +19,8 @@ class Solution {
 
         for(int num:nums){
             if(num!=0){
-                nums[i++]=num;
+                nums[i]=num;
+                i++;
             }
         }
         while(i<nums.length){
