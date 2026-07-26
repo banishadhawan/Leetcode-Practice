@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0010-regular-expression-matching/) | Hard |
 | [0013-roman-to-integer](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0038-count-and-say](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0038-count-and-say/) | Medium |
