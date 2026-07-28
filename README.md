@@ -449,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -471,8 +472,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0933-number-of-recent-calls](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
