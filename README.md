@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0443-string-compression/) | Medium |
+| [0649-dota2-senate](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0649-dota2-senate/) | Medium |
 | [0796-rotate-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0179-largest-number/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0605-can-place-flowers/) | Easy |
+| [0649-dota2-senate](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0649-dota2-senate/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Simulation
@@ -472,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0649-dota2-senate](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
