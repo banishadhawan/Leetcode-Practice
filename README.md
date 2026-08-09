@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0060-permutation-sequence/) | Hard |
 | [0096-unique-binary-search-trees](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0205-isomorphic-strings/) | Easy |
