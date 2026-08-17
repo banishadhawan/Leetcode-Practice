@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0443-string-compression/) | Medium |
 | [0649-dota2-senate](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0649-dota2-senate/) | Medium |
 | [0796-rotate-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0796-rotate-string/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0649-dota2-senate/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Simulation
@@ -489,4 +492,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0933-number-of-recent-calls/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
