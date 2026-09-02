@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0189-rotate-array/) | Medium |
+| [0233-number-of-digit-one](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0233-number-of-digit-one/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1922-count-good-numbers/) | Medium |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0060-permutation-sequence/) | Hard |
+| [0233-number-of-digit-one](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0233-number-of-digit-one/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1922-count-good-numbers](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1922-count-good-numbers/) | Medium |
 ## Dynamic Programming
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0198-house-robber/) | Medium |
+| [0233-number-of-digit-one](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0233-number-of-digit-one/) | Hard |
 | [0392-is-subsequence](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0392-is-subsequence/) | Easy |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/3251-find-the-count-of-monotonic-pairs-ii/) | Hard |
 ## String
