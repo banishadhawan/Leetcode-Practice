@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0018-4sum/) | Medium |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0044-wildcard-matching/) | Hard |
 | [0179-largest-number](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0179-largest-number/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
