@@ -451,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0550-game-play-analysis-iv](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0584-find-customer-referee/) | Easy |
+| [0619-biggest-single-number](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0619-biggest-single-number/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/banishadhawan/Leetcode-Practice/tree/main/1148-article-views-i/) | Easy |
