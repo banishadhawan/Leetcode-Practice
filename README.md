@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0061-rotate-list/) | Medium |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0040-combination-sum-ii/) | Medium |
