@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0205-isomorphic-strings/) | Easy |
+| [0214-shortest-palindrome](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0214-shortest-palindrome/) | Hard |
 | [0242-valid-anagram](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0443-string-compression/) | Medium |
@@ -428,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0214-shortest-palindrome](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0214-shortest-palindrome/) | Hard |
 | [0796-rotate-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0796-rotate-string/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -527,10 +529,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0214-shortest-palindrome](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0214-shortest-palindrome/) | Hard |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0214-shortest-palindrome](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0214-shortest-palindrome/) | Hard |
 ## Boyer–Moore String-Search Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -543,4 +547,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0547-number-of-provinces/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0214-shortest-palindrome/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0214-shortest-palindrome/) | Hard |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0214-shortest-palindrome/) | Hard |
 <!---LeetCode Topics End-->
