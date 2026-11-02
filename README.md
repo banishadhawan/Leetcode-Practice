@@ -563,4 +563,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0214-shortest-palindrome/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/banishadhawan/Leetcode-Practice/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
